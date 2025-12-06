@@ -4,4 +4,4 @@ Bu program (1 + 5 / 3 − 7 / 5 + 9 / 7 − 11 / 9 + .. .. .. .. + 45 / 43) �
 
 Nasıl Çalıştırılır?
 
-1)Programın işlemin sonucunu hesaplaması ve ekranda görüntülemesi için programı başlatmanız yeterlidir. 
+1) Programın işlemin sonucunu hesaplaması ve ekranda görüntülemesi için programı başlatmanız yeterlidir. 
